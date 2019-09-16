@@ -6,4 +6,6 @@
         docker rm -v $id
 
 
-**More info for the MC-Technologies MC100-GPIO you can find [here][https://www.mc-technologies.net/en/product-groups/data-techniques/mobile-terminals-gateways/MC100-GPIO-4G-LTE-Gateway]
+**More info for the MC-Technologies MC100-GPIO**
+
+you can find [here][https://www.mc-technologies.net/en/product-groups/data-techniques/mobile-terminals-gateways/MC100-GPIO-4G-LTE-Gateway]
